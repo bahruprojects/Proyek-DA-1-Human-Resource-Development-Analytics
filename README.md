@@ -1,1 +1,2 @@
-# Proyek-DA-1-Belum
+# Human Resource Development Analytics Dashboard.
+This dashboard is the output of a data analysis conducted by the HR department, containing a descriptive analysis of employees across various divisions within a confidential company. There are 11.4 thousand active employees, with a resignation percentage of 23.8%. The highest turnover rate is found in the HR, Accounting, and Technical divisions. The highest satisfaction levels are in the Management and Marketing divisions
